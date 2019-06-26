@@ -1,0 +1,26 @@
+ table 
+        {
+
+            border-collapse: collapse;
+            width: 100%;
+            color: 	#000000;
+            font-family: monospace;
+            font-size: 22px;
+            text-align: center;
+
+        }
+
+
+header
+        {
+        	text-align: center;
+        	color: #000080;  
+        	font-size: 30px;      
+        }        
+
+img
+        {
+        	max-height: 100%;
+        	max-width: 100%;
+
+        }    
